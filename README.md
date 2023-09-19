@@ -70,7 +70,7 @@ environment.
 
 #### Results
 
-The agent is able to solve the problem in 68 episodes (averaging 30 points from episode 68 to episode 168). The weights of the actor network are stored in 
+The agent is able to solve the problem in 68 episodes (averaging 30 points from episode 68 to episode 168). A detailed description of the implemented algorithm can be found in [report.pdf](report.pdf). The weights of the actor network are stored in 
 [actor.pth](solution/actor.pth) and the weights of the critic network are stored in 
 [critic.pth](solution/actor.pth). Here's the agent's score history:
 
